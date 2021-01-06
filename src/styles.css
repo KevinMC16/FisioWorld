@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+.carousel-item {
+    height: 65vh;
+    min-height: 200px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h5 {
+    background-color: black;
+    opacity: 0.7;
+    color: white;
+}
+
+p {
+    background-color: black;
+    opacity: 0.7;
+    color: white;
+}
